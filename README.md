@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently learning **java**
 
-- 🤝 I’m looking for help with **Frontend Developer Roll**
+- 🤝 I’m looking for help with **Frontend Developer **
 
 - 📫 How to reach me **kaniquincy@gmail.com**
 
